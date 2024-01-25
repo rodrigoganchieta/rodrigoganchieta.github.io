@@ -3,7 +3,7 @@
 
 Eu sou apaixonado em criar soluções de negócios para grandes empresas usando tecnologia e inovação.
 
-Possuo mais de 10 anos de experiência em desenvolvimento de projetos com arquiteturas web, e ao longo desse período vivenciei a transformação digital da internet e o surgimento de diversas tecnologias de mercado, sendo desafiado diariamente a obter novos conhecimentos.
+Possuo mais de 12 anos de experiência em desenvolvimento de projetos com arquiteturas web, e ao longo desse período vivenciei a transformação digital da internet e o surgimento de diversas tecnologias de mercado, sendo desafiado diariamente a obter novos conhecimentos.
 
 Tenho grande facilidade de aprendizado e sou entusiasmado por novos desafios e conhecimento, sou flexível, proativo e comprometido. Gosto de liderar o time pelo “exemplo” e conhecimento técnico, buscando trabalhar com um time engajado, comunicativo e com espirito de equipe.
 
