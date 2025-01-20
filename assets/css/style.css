@@ -113,6 +113,10 @@ a:focus {
   outline: 0;
 }
 
+b{
+  color: #454360;
+}
+
 blockquote {
   padding: 20px 20px;
   margin: 0 0 20px;
